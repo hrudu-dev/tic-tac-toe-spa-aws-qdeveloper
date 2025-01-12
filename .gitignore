@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+dist/
+.next/
+
+# AWS deployment files
+out/
+*.pem
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files (for Visual Studio Code and WebStorm)
+.vscode/
+.idea/
+
+# environment variables
+.env
+.env.local
+.env.development
+.env.production
